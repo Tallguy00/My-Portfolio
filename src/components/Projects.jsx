@@ -5,26 +5,16 @@ export default function Projects() {
     
     {
       id: 1,
-      title: 'Electric bill Management system ',
+      title: 'Electric bill Management website ',
       description: 'Collaborative project management tool with real-time updates, team chat, and progress tracking.',
-      image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['MySql'],
-      liveUrl: '#',
-      githubUrl: 'https://github.com/tallerguy1/Electrical-Bill-Management-system',
-    },
-
-    {
-      id: 2,
-      title: 'Electric bill Management system ',
-      description: 'Collaborative project management tool with real-time updates, team chat, and progress tracking.',
-      image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['MySql'],
-      liveUrl: '#',
-      githubUrl: 'https://github.com/tallerguy1/Electrical-Bill-Management-system',
+      image: 'https://github.com/Tallguy00/php-powerhouse-suite/blob/main/src/assets/hero-ethiopia-power.jpg?raw=true',
+      tags: ['TypeScript','React','Talwind','MySql'],
+      liveUrl: 'https://php-powerhouse-suite.vercel.app',
+      githubUrl: 'https://github.com/Tallguy00/php-powerhouse-suite',
     },
     
     {
-      id: 4,
+      id: 2,
       title: 'Apple websites',
       description: 'Modern social networking platform with posts, stories, messaging, and live streaming.',
       image: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800',
