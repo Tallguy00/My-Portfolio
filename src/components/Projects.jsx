@@ -9,7 +9,7 @@ export default function Projects() {
       description: 'Collaborative project management tool with real-time updates, team chat, and progress tracking.',
       image: 'https://github.com/Tallguy00/php-powerhouse-suite/blob/main/src/assets/hero-ethiopia-power.jpg?raw=true',
       tags: ['TypeScript','React','Talwind','MySql'],
-      liveUrl: 'https://php-powerhouse-suite.vercel.app',
+      liveUrl: 'https://ethioelectricpowerhouse.vercel.app/',
       githubUrl: 'https://github.com/Tallguy00/php-powerhouse-suite',
     },
     
