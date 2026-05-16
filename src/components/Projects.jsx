@@ -22,6 +22,17 @@ export default function Projects() {
       liveUrl: '#',
       githubUrl: 'https://github.com/tallerguy1/Leastest-version-of-Apple-Web.git',
     },
+
+    {
+      id: 3,
+      title: 'Haramaya Health Risk Prediction System',
+      description: 'It combines modern information technology with healthcare practices to create a smarter and more reliable health monitoring environment.',
+      image: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800',
+      tags: ['TypeScript', 'React', 'Tailwind', 'Python'],
+      liveUrl: 'https://haramaya-health-risk-ai.vercel.app/',
+      githubUrl: 'https://github.com/Tallguy00/Haramaya-Health-Risk-AI',
+    },
+
   
   ];
 
