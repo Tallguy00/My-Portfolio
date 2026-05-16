@@ -15,7 +15,8 @@ export default function Skills() {
       skills: [
         { name: 'Node.js', level: 90 },
         { name: 'Python', level: 75 },
-        { name: 'MySQL', level: 90 },
+        { name: 'Java', level: 80 },
+        { name: 'MySQL', level: 85 },
         { name: 'MongoDB', level: 82 },
       ],
     },
